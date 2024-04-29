@@ -12,3 +12,6 @@ My second semi-serious Game. A Challenging Open-World, Fantasy, RPG game. Art in
 
 This is a portfolio project/school project mainly but I have been wanting to try to create a RPG game for quite a while now. Development of this game should take around 3-5 months and I will publish it on itch or some public platform like steam depending on how it turns out in the end.
 ![ZolanorePoster1 - Copy](https://github.com/j-2k/Zolanore/assets/52252068/0d834969-806d-4588-82bb-bd69c718f869)
+
+This project is reuploaded thus removing all commits & gazers so I just want to thank my stargazers!  - thank you to my original stargazers! support is always appreciated!
+<img width="1070" alt="Screenshot 2024-04-29 at 8 17 56 AM" src="https://github.com/j-2k/ZolanorePublic/assets/52252068/a030c860-a310-4312-bec3-b0fb3f3f5ae0">
