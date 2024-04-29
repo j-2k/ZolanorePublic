@@ -1,8 +1,6 @@
 # Zolanore
 *unfortunately this didn't turn out as good as I hoped it would, but at least I learned a bunch of stuff this was never a commerical product or idea, but it was a project for university!*  
 
-**CHECK OUT THE LATEST RELEASES TO PLAY THE GAME! (CLICK [HERE](https://github.com/j-2k/Zolanore/releases) FOR A DIRECT LINK TO RELEASES)**
-
 **DIRECT ITCH.IO PAGE CLICK [HERE](https://j-2k.itch.io/zolanore)**
 
 **DISCLAIMER: THIS PROJECT HAS BEEN SHELVED AS OF 26/5/2022**
