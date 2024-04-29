@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Unlit_UVLeafShader
+  m_Shader: {fileID: 4800000, guid: 269593d6a519a9741af1ddc8635dcc24, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: eb95ea54cbd449344aef340f6e4e1535, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 3f1d4fadb37c37e4488860109d7dce4b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ClipAmount: 0.01
+    - _ColorScale: 1.5
+    - _DistortionAmount: 30
+    - _NoiseScale: 1
+    - _NoiseValue: 0
+    - _RotationSpeed: 20
+    - _UVValue: 0
+    - _WaveAmp: 0.05
+    - _WaveAmpLeaf: 0.01
+    m_Colors:
+    - _Color: {r: 0.10548204, g: 0.6698113, b: 0, a: 1}
+    - _NoiseSpeed: {r: 0.1, g: 0, b: 0, a: 0}
+    - _NoiseVelocity: {r: 0.1, g: 0.1, b: 0, a: 0}
+    - _NoiseVelocity2: {r: 10, g: 10, b: 0, a: 0}
+    - _OffsetWorldPos: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

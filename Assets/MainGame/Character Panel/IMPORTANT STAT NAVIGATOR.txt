@@ -1,0 +1,30 @@
+n = SUM OF ALL BONUS BASE SPECIFIC STATS
+
+eB% = EQUIPMENT BONUS PERCENT
+
+(((((n) eB%1 + 1) eB%2 + 1) eB%3 + 1) eB%4 + 1)
+
+//
+
+make a skill point system where if the player levels up give him 2 points to spent on 1 of the stats on the character panel
+
+//
+
+AREAS WHERE WE INITIALIZE THE DIFFERENT STATS THEY CAN BE FOUND IN THESE SCRIPTS
+
+ItemTooltips cs X
+EquippableItem cs
+CharacterManager cs
+
+(FOR SKILL POINTS MANAGEMENT)
+SKILLPOINTSPEND cs
+LEVELSYSTEM cs
+
+//ROUNDNIG STAT VALUES
+
+rounding in stattooltips
+rounding in characterstats
+
+//SAVING & LOADING 
+
+CHECK SET STARTING ITEMS FUNCTION ITS THE CAUSE OF LOAD FAILURE BECAUSE OF SCRIPT EXE ORDER

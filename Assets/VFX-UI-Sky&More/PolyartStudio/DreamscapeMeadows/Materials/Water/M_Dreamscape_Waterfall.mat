@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Dreamscape_Waterfall
+  m_Shader: {fileID: 4800000, guid: 66906d5c57c4a9c4eb411e5bca74e37c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Displace1:
+        m_Texture: {fileID: 2800000, guid: 1206ec3b97ff9e043bab9ed180f8a4d7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Displace2:
+        m_Texture: {fileID: 2800000, guid: 1206ec3b97ff9e043bab9ed180f8a4d7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Displacement1:
+        m_Texture: {fileID: 2800000, guid: b166ccd7e871a3948ac1028410a7fe76, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: f4d6674ab39631f47b9b78c8e92aee48, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalBase:
+        m_Texture: {fileID: 2800000, guid: f4d6674ab39631f47b9b78c8e92aee48, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalWave:
+        m_Texture: {fileID: 2800000, guid: 26015f3ef5788b94dacfa5245a3022cc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex1:
+        m_Texture: {fileID: 2800000, guid: 26015f3ef5788b94dacfa5245a3022cc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 1206ec3b97ff9e043bab9ed180f8a4d7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 1206ec3b97ff9e043bab9ed180f8a4d7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterLines:
+        m_Texture: {fileID: 2800000, guid: 1206ec3b97ff9e043bab9ed180f8a4d7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaveNormal1:
+        m_Texture: {fileID: 2800000, guid: 70546bb8eb214354e83b7f57e5a4821c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorDepthFade: 0.43
+    - _DisplaceStrength: 0
+    - _DisplaceStrength1: 0.469
+    - _Float0: 0.84
+    - _Line01ScaleX: 2
+    - _Line01ScaleY: 2.45
+    - _Line01Speed: -1.3
+    - _Line02ScaleX: 6.75
+    - _Line02ScaleY: 1
+    - _Line02Speed: -1
+    - _LineAcceleration: 1.2
+    - _LineScaleWidth: 1
+    - _LineTreshold: 0.672
+    - _LineUVFade: 0.64
+    - _LinesScaleX: 2.52
+    - _LinesScaleX2: 9.3
+    - _LinesScaleY: 1.95
+    - _LinesScaleY2: 0.37
+    - _LinesSpeed: -0.63
+    - _LinesSpeed2: 0.6
+    - _RippleSpeed: 2
+    - _Smoothness: 1
+    - _Smoothness1: 1
+    - _UVFade: -0.65
+    - _VoronoiSpeed: 2.3
+    - _WaveNormalIntensity: 0.597
+    - _WaveNormalIntensity1: 0.21
+    - _WaveTiling01: 1
+    - _WaveTiling02: 1
+    - _WaveTiling2: 3
+    - _WaveTiling3: 3
+    - __dirty: 0
+    m_Colors:
+    - _ColorDeep: {r: 0.06581525, g: 0.8207547, b: 0.7680069, a: 0}
+    - _ColorShallow: {r: 0.35323954, g: 0.8556219, b: 0.9245283, a: 1}
+    - _DisplacementMovement: {r: 0, g: 1, b: 0, a: 0}
+    - _LineColor: {r: 0.44811314, g: 1, b: 0.9224879, a: 1}

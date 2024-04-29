@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aab64081fbcafe4087bec474aba35bc, type: 3}
+  m_Name: AccNecklace1
+  m_EditorClassIdentifier: 
+  id: 2bf53f9866f279f44940a11bdfdc18fc
+  ItemName: Amulet of Strength
+  Icon: {fileID: 21300000, guid: 0e123cfdc54a3ca4684816a34167a566, type: 3}
+  MaxStack: 1
+  StrengthBonus: 2
+  DexterityBonus: 0
+  IntelligenceBonus: 0
+  DefenceBonus: 0
+  StrengthPercentBonus: 10
+  DexterityPercentBonus: 0
+  IntelligencePercentBonus: 0
+  DefencePercentBonus: 0
+  EquipmentType: 6
+  itemLore: 

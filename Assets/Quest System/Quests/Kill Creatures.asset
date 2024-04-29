@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b37269fa54557a4a97e0a9664eafdc7, type: 3}
+  m_Name: Kill Creatures
+  m_EditorClassIdentifier: 
+  Information:
+    Icon: {fileID: 21300000, guid: f507f03eb80bcbf49bb458bd6a54bd9a, type: 3}
+    Name: Rocky Creatures?
+    Description: Hey again stranger! How's your journey on Zolanore so far? Rocky
+      creatures? Yes they are called golems. There is a group of the ahead but be
+      careful, once they see you, you will be swarmed with rocks! Good luck stranger!
+  Reward:
+    Currency: 600
+    XP: 200
+  Goals:
+  - {fileID: 5555523286335931991}
+--- !u!114 &5555523286335931991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bbb8692f7fa07c46b8b1659984d1298, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CurrentAmount: 2
+  RequiredAmount: 2
+  GoalCompleted:
+    m_PersistentCalls:
+      m_Calls: []
+  Enemy: Green Golem

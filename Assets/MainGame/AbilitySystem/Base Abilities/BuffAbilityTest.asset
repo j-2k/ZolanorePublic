@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb7eab95aa1cb7c4d83e7d9307cb03a1, type: 3}
+  m_Name: BuffAbilityTest
+  m_EditorClassIdentifier: 
+  abilityName: 
+  combatType: 0
+  cooldownTime: 8
+  activeTime: 10
+  singleTrigger: 0
+  bypassCancel: 1
+  abilityVFX: {fileID: 198665422404971792, guid: 4a902f9e673e935429fab625028c7790, type: 3}
+  scaleIncrease: 1

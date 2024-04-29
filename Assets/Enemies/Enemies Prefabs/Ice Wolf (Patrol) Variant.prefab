@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5823087634099959136
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1160691174243464633, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: questEnemyName
+      value: Ice Wolf
+      objectReference: {fileID: 0}
+    - target: {fileID: 1160691174884066475, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1160691174884066475, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322266430642, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9fd82968a99d7924187e69a7bbe74167, type: 2}
+    - target: {fileID: 3696927322280092144, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_Name
+      value: Ice Wolf (Patrol) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280092147, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: Waypoints.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280092147, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: Waypoints.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280092147, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: Waypoints.Array.data[2]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280092147, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: Waypoints.Array.data[3]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280092147, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: Waypoints.Array.data[4]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280525264, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280525264, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.883127
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280525264, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280525264, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.1697559
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280525264, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.41634396
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280525264, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280525264, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9092072
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280525264, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280525264, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280525264, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -130.792
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696927322280525264, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c71ce3a0b2d494f4ba27e03ef1592c43, type: 3}

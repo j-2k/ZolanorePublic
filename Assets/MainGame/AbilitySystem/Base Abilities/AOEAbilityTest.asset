@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 878a01a1489bfc04687a9e2d94005992, type: 3}
+  m_Name: AOEAbilityTest
+  m_EditorClassIdentifier: 
+  abilityName: 
+  combatType: 0
+  cooldownTime: 1
+  activeTime: 5
+  singleTrigger: 0
+  bypassCancel: 0
+  abilityVFX: {fileID: 198665422404971792, guid: 927dc6e18bced4d4a83c0580ec6b6197, type: 3}
+  trailVFX: {fileID: 0}

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9f6cf5b484f74e14596c9f39e21a0e3c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _WindNoiseTexture: {fileID: 2800000, guid: f3a1f84b44733e44e9e06b47e364540b, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
